@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strudioconnect",
+  "private_key_id": "63781f9e833fda9b2ce6443c0c396621475eacf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjl0Sjao5wzL7j\nLHMwhBiqzSXWBerPUfP1xh62fzcooEWc/hp8uEqYnzsXzlQcEQNrREU43lFJDv5L\n41+V+4p66ROvRgviUIjbcQnZ77jrQR17egGzgLK2BJNZI9vBhfV6CAxVqtDF20Ev\nVMO2M5SHWzA7GviroMysWoCHr4ZG7K9+8F2CvNUXu6RM1M/YfgU7fuENpp6n4285\nV9k7H1oAqKANnxR06iEofXxPxjmy52WWlwincgvBrg201guPE1qdlGDP/bnSdOn7\neNz2tUA+jVoU7XejMECMZWEeuJBXG6p4ZDBMVa5D5+1WyptNChnS8pW8nJ70Vdjp\n2fHEuieJAgMBAAECggEAX1Gjda3TKnsWF58uP0uT6TUye4jO5zWzr2PiyRxOxb0a\nar4h6cpls7Y80aOgpoCZpftZ4o96C9czuiToi7BmN0QW8nmr0IVaTE3ziktUb3M+\nHdDjlYJ5VrJj5BmYmFy6ivmD8P0xoyxJCMG/ljfUJTyT3q1VKMyX7DebTTi+TEVa\nm1KZumfk9LbGEsRlgXnOj6OE83TnYWn3OeAQjw4ISKii60M0gV6VE97mncopcyOD\nFJpN9fZJs1xlJ5HbaHIvcLQITHn1mn1h4nP70NHvysiesr3YSrFu1YS53QAxlviy\ns8PnMbWi/BeHvy4/EYE5ENYUhCn3XZQTLCJHTBKAYQKBgQD3Ud1oFS0RWVoH65n2\nLBB8x3lh6dqukVzpAc8+EB1Xeak/e/hwfYl7K2zVAa+pehfsdyPCS3Qt1K/g+VQq\ndKpExoR1RrBHhAJxvqCTxxQdnLSqqlpFXWKLqs0YdWNGyOFwkn1/H1JzAwAfq7De\nTJkf+Q8bOMC8HqPBW9zMliGbHwKBgQDrlCRL7u1C/erf0Pp0vauJaOJ1v3+U2doV\n9kDOEBXdAkBCA/oPl2U23Z2TafyHvbnaC42D1rEXqVX9ih9JZEz0+6pJZVFOmXsV\nhm8Yt4Wr88S/3+Zv5g7UhvsA8QSRfbdpm/jLr53Jmb9Ale3OnOddN6+li9tUsx4N\nG1TI01OQVwKBgAIMlJgLLN9q7RsJsbHfdZeDE5djF6PAopNvp2btPUD/Sg6zmUBd\nWelCV9l/9ROjZlVYO1ydwW2ryHVFu5PKeaquNmS+XDGLf3WvzabLzHfeV4Teenb+\nqhVcKezc9CCfA3cqT43hFY7MZJDenE2LNu2T47MnCjnEyziL6U1spQSjAoGAEuhU\n8XM/v7y5eTVApNYESocMhf7UspG5m0GkeeV4m8Buf93p2A6CpSCsYQSErDBiFkoP\nFaHJnOiOakcHs9BFDPSV+kYTfId9BYFAsW8pX1+1TuEdkaWZUx1yT+UIRNUeP2+x\nTEfQFjosy3Y9G/Qj7atmgZb0B5xIsSycZXHwpwkCgYEAikBAKj7kGd+8U3mxmnYB\nx7tfOokV5sk5BJePBJiFqWiUnN2pvWkscUwlYhnQpbNBA8DAVlLtu1gg1QUWKAGl\nNNIiU2KR6drvU49Gd0bOoESxu1O9S7r8V4Mb9UtWj95y/ameGCiJF+Xp7xRlvbkn\nOH0y05BCwlr1cKXlFvgmlI8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rstudio@strudioconnect.iam.gserviceaccount.com",
+  "client_id": "101106171200844035958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rstudio%40strudioconnect.iam.gserviceaccount.com"
+}
